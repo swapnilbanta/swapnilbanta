@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **learning everything**
 
-- 👨‍💻 All of my projects are available at [https://swapnilbanta.github.io/swapnilsood1998.github.io/](https://swapnilbanta.github.io/swapnilsood1998.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/swapnilbanta](https://github.com/swapnilbanta)
 
 - 💬 Ask me about **Php ,React js**
 
