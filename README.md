@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbanta&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbanta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilbanta" alt="swapnilbanta" /></a> </p>
-
 - 🌱 I’m currently learning **learning everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/swapnilbanta](https://github.com/swapnilbanta)
+- 👨‍💻 All of my projects are available at [https://swapnilbanta.github.io/swapnilsood1998.github.io/](https://swapnilbanta.github.io/swapnilsood1998.github.io/)
 
-- 💬 Ask me about **Php ,React js**
+- 💬 Ask me about **Php,Reactjs,Nodejs**
 
 - 📫 How to reach me **swapnilbanta@gmail.com,https://www.linkedin.com/in/swapnil-banta-87363a140/**
 
