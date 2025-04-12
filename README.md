@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **swapnilbanta@gmail.com**, [LinkedIn Profile](https://www.linkedin.com/in/swapnil-banta-87363a140/)
 
-- 📄 Know about my experiences: **Software Engineer at KRESCENT IT LABS PVT. LTD., Front-End Developer with 3 years of experience at BEBO Technologies**
+- 📄 Know about my experiences: **Intern at KRESCENT IT LABS PVT. LTD., Front-End Developer with 3 years of experience at BEBO Technologies**
 
 - ⚡ Fun fact: **I love to play volleyball**
 
